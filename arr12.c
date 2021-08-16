@@ -26,7 +26,7 @@ int main()
              else if((a[i]<l2) && (a[i]<l1) )
              {
 
-                 l2=a[i];
+                 l2=a[i]; printf("kshay");
              }
 
       }
